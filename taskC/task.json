@@ -1,1 +1,1 @@
-{"title":"TaskC","name":"taskC","environmentVariables":[]}
+{"title":"TaskC","name":"taskC","environmentVariables":[],"parameters":["--filename","/storage/c.out","--filesize","1024"],"id":0}

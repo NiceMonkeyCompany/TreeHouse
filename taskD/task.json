@@ -1,1 +1,1 @@
-{"title":"TaskD","name":"taskD","environmentVariables":[]}
+{"title":"TaskD","name":"taskD","environmentVariables":[],"parameters":["--filename","/storage/d.out","--filesize","1024"],"id":0}
